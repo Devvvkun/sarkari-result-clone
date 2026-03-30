@@ -71,6 +71,6 @@ https://devvkun.github.io/sarkari-result-clone/
 ## 👨‍💻 Author
 Himanshu Singh  
 GitHub: https://github.com/devvkun  
-Instagram: https://www.instagram.com/devvkun/
+LinkedIn: www.linkedin.com/in/himanshusinghsln
 
 ---
